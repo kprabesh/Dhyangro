@@ -2,6 +2,6 @@
 [![Repo-Size](https://img.shields.io/github/repo-size/kprabesh/Dhyangro.svg)](../../archive/master.zip)
 [![forks](https://img.shields.io/github/forks/kprabesh/Dhyangro?style=social)](../../network/members)
 
-
+![](images/Dhyangro.jpg)
 # Dhyangro
 Musical Information Retrieval to create and use traditional Nepali instruments
