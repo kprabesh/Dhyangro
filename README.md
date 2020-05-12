@@ -8,8 +8,6 @@ Dhyangro is a project inspired by up and coming artist Night's cause “Know you
 
 [Nights,Know your Instruments ](http://wearenight.com/?page_id=1466)
 
-[Forgotten Tharu Instruments](https://www.youtube.com/watch?v=Fn3ZZGvNajw)
-
 With an understanding that the general Nepali youth is tech savvy and are more drawn to creating music with MIDI instruments, this is an effort to preserve traditional nepali instruments by having it be more accessible to the youth. 
 ALthough not as pertitent as Nights prject, Lal Bahadur Reshmi Thapa and Bal Krishna Bal's publication on [Classifying Sentiments in Nepali Subjective Texts](https://ieeexplore.ieee.org/document/7785374/) has also been one of the sources of inspiration for this project. 
 
