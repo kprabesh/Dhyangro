@@ -6,7 +6,7 @@ You can contribute to this project in the following ways:
 
 Workflow for contributing on the repository:
 
-1.Fork the repo.
+1. Fork the repo.
 
 2. Clone your fork.
  
